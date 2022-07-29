@@ -21,5 +21,4 @@ public class DELETE_request {
     Assert.assertEquals(responseAsString.contains("Successfully! Record has been deleted"), true);
 
     }
-
 }
